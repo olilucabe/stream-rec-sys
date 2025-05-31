@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+nltk
+requests
+joblib
+openpyxl
+matplotlib
+urllib3
